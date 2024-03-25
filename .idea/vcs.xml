@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/movie_2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/movie_2/MovieBooking_Backend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/movie_2/https:/github.com/LingalaRohith/Movie_backend.git" vcs="Git" />
+  </component>
+</project>
